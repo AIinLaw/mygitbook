@@ -4,7 +4,7 @@
 
 * [前言](README.md)
 * [Python与人工智能的关系](pythonyu-ren-gong-zhi-neng-de-guan-xi.md)
-* [测试](ce-shi.md)
+* [测试图片外链](ce-shi.md)
 
 ## 基础扎实
 
@@ -17,7 +17,5 @@
 ## 课程之外
 
 * [其他](c3.md)
-* [其他之二]
-
-
+* \[其他之二\]
 
