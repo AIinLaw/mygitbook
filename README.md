@@ -22,15 +22,7 @@
 
 * ~~为了高效工作~~
 
-
-
-
-
 [/www.legalmind.com](/www.legalmind.com)
 
-
-
-
-
-![](/assets/thumb-1920-475526.jpg)
+[![](/assets/thumb-1920-475526.jpg)](/www.legalmind.com)
 
