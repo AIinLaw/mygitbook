@@ -1,10 +1,20 @@
 # Summary
+
+## 绪论
+
 * [前言](README.md)
----
+* [Python与人工智能的关系](pythonyu-ren-gong-zhi-neng-de-guan-xi.md)
+* [测试](ce-shi.md)
+
+## 基础扎实
+
 * [基础知识部分](c1.md)
 
----
+## 高级应用
+
 * [进阶技能](c2.md)
 
----
+## 课程之外
+
 * [其他](c3.md)
+
