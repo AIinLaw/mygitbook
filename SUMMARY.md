@@ -1,10 +1,9 @@
 # Summary
 
-## 绪论
 
 * [前言](README.md)
 * [Python与人工智能的关系](c5.md)
-* [测试图片外链](ce-shi.md)
+* [测试图片外链](c6.md)
 
 ## 基础扎实
 
