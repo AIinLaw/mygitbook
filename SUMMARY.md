@@ -3,7 +3,7 @@
 ## 绪论
 
 * [前言](README.md)
-* [Python与人工智能的关系](pythonyu-ren-gong-zhi-neng-de-guan-xi.md)
+* [Python与人工智能的关系](c5.md)
 * [测试图片外链](ce-shi.md)
 
 ## 基础扎实
