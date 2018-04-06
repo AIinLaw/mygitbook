@@ -24,5 +24,5 @@
 
 [/www.legalmind.com](/www.legalmind.com)
 
-[![](/assets/thumb-1920-475526.jpg)](/www.legalmind.com)
+[![](/assets/thumb-1920-475526.jpg)](http://www.legalmind.cn)
 
