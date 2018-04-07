@@ -3,10 +3,6 @@
 # 法律人为什么要学编程？
 
 
-
-
-2016年5月，第一个人工智能律师助理 Ross Intelligence 在美国 Baker Hostetler 律师事务所上岗工作，来协助律师处理破产法领域的相关法律检索任务[^1]。截止目前，Ross 的业务范围已经拓展到了**知识产权法**，**劳动法**等领域，并在全世界范围内继续攻城略地[^2]。
-
 ## 新时代的文盲
 
 上世纪50年代之后，我们把不识字、无读写能力的人称为“文盲”，有人曾发现一个有趣的现象，**文盲钟爱小卖部**，但是非常抵触超市。
@@ -21,43 +17,26 @@
 在现在，不识字的人已经成为了少数，而将来，无法高效率处理海量信息的人，可能成为新时代的文盲。
 
 
-
-
-## 法律人已经开始学编程了
+## 法律人早已开始行动
 
 2016年12月，英国著名“魔力圈”律所 Linklaters 启动了一项全球计划，旨在教授律师新人编程入门技能[^3]。美国哈佛大学，乔治城大学等高校的法学院也已经将编程入门课引入到了教学大纲中，甚至列为知识产权法，科技法等方向的必修课程[^4][^5]。
-![哈佛大学法学院的律师编程入门课](media/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-02-26%20%E4%B8%8A%E5%8D%8811.39.08.png)
+![哈佛大学法学院的律师编程入门课](http://o6nu63qnj.bkt.clouddn.com/hwd.png)
 **（上图）哈佛大学法学院的律师编程入门课**
 
-在我国，Python编程语言和人工智能相关课程也已经正式列入到了某些省份中小学的教学大纲中[^6]。我们有理由相信，在不远的未来，基础的编程技能会像现在的英语技能，计算机操作技能一样，成为各个领域知识工作者的基本技能之一。没有人会认为不懂英语就不能成为一个好律师，也没有人会觉得不会操作计算机就不能成为一位好法官，但是，掌握这些技能一定会给法律人的工作带来越来越大的便利。
+在我国，Python编程语言和人工智能相关课程也已经正式列入到了某些省份中小学的教学大纲中[^6]。
 
-## Code is Law（代码即法律）
-除了知识产权法、互联网法等法律领域，大多数法律人想必学习的都是文科相关专业，因此，他们对计算机编程大多有一种既遥远又神秘的印象，更不会想到自己从事的法律专业和编程有什么联系。其实，这二者之间的相似性，远远超过了大家的直观印象。哈佛大学法学院 Lawrence Lessig 教授在他关于网络空间治理的论著中，提出过一个著名的观点：Code is Law(代码即法律)[^7] 虽然他的这本论著主要是讨论了网络空间中自由和治理之间的关系，以及代码作为一种治理手段的特点。但是，其中也揭示出关于代码和法律之间一种本质的联系：二者都是通过在某个空间内制定一系列规则，然后遵守这些规则来达到相应的目的和效果。研究代码和研究法律，其实都是在研究一套规则。因此，下面的这道问题，也就不难回答了。（答案是AB）
-![](media/15196256009244.jpg)
+我们有理由相信，在不远的未来，基础的编程技能会像现在的英语技能，计算机操作技能一样，成为各个领域知识工作者的基本技能之一。
+事实上，因为计算机程序和法律这种本质上的相似之处，使得法律人和程序员这两个看似毫不相关的群体之间，也有很多思维方式和工作方式上的共性。
 
-正是因为计算机程序和法律这种本质上的相似之处，使得法律人和程序员这两个看似毫不相关的群体之间，也有很多思维方式和工作方式上的共性。供职于知名在线短租网站 Airbnb 的华裔工程师朱赟曾在一篇文章中写到了这样的一个例子：“有一个同事，以前是学法律的，最近转行写代码，写出的代码比很多写的年份多得多的人还强的多。她对法律相关的思维的缜密，很好地就转移到了代码逻辑的缜密上，不学自通。”[^8]总的来说，法律人和程序员在思维上的相似之处主要表现在缜密的逻辑思维能力和对细节的极度关注上。
-
-举一个例子来说，当设计一个付款协议的时候，软件工程师和律师都在考虑什么问题呢？首先，他们需要设计出一套正常情况下完整的付款流程：对于微信支付系统的程序员来说，这可能包括：用户选择商品，商户生成支付订单，微信支付系统生成预付单，用户确认支付，微信支付系统验证支付参数并将完成支付的信息返回商户等。对于律师来说，可能包括：谁能付款？怎样付款？什么时候付款？怎样开具发票等；然后，他们会制定各种方案来应对特殊状况（软件开发领域一般叫做 Edge Case, 法律行业更喜欢用 Risk 这个词），例如微信支付的工程师可能需要考虑：手机发送付款请求失败怎么办？微信服务器没能成功处理付款怎么办？微信服务器成功处理后没能成功发送回执怎么办？哪些环节需要增加冗余带宽以应对流量激增，哪些数据需要使用 Redis 以应对高并发等等。相应对，对于律师来说，他也需要考虑逾期付款，付款人变更，设置抵押等问题。整个支付系统或付款合同完成后，我们会发现，二者似乎都符合2/8定律，占交易总数80%的情况，只需要使用到20%的代码（合同条款）来处理，而另外20%的特殊情况则需要另外80%的代码（合同条款）来处理。由此可见，缜密的逻辑思维能力和对细节的关注对软件工程师和法律人来说都是非常重要的品质。如果你已经是一位优秀的法律人，那么，你学习计算机编程的效率也一定会高于一般的初学者。
-
-
-## 法律人学习编程的推荐路径
-
-（二）
-
-“Everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. It's like going to law school. I don't think anybody should be a lawyer, but going to law school can actually be useful because it teaches you how to think in a certain way....I view computer science as a liberal art.”——Steve Jobs
-
-史蒂夫·乔布斯比尔·盖茨等硅谷精英鼓励每个人都来学编程，美国一些公立学校甚至在一年级就开设了编程课，而法律人对编程的探索也早已开始。
-
-2016年12月，英国著名“魔力圈”律所 Linklaters 启动了一项全球计划，旨在教授律师新人编程入门技能。美国哈佛大学，乔治城大学等高校的法学院也已经将编程入门课引入到了教学大纲中，甚至列为知识产权法，科技法等方向的必修课程。
+供职于知名在线短租网站 Airbnb 的华裔工程师朱赟曾在一篇文章中写到了这样的一个例子：“有一个同事，以前是学法律的，最近转行写代码，写出的代码比很多写的年份多得多的人还强的多。她对法律相关的思维的缜密，很好地就转移到了代码逻辑的缜密上，不学自通。”[^8]总的来说，法律人和程序员在思维上的相似之处主要表现在缜密的逻辑思维能力和对细节的极度关注上。
 
 没有人会认为不懂英语就不能成为一个好律师，也没有人会觉得不会操作计算机就不能成为一位好法官，但是，掌握这些技能一定会给法律人的工作带来越来越大的便利。
-
-不同的学科知识给予我们不同的思考方式，这些思考方式将贯穿在我们日常生活的点点滴滴。而编程本身就是一个培育思维的过程，可以帮助我们掌握逻辑思考的能力。
 
 
 
 
 ## 为什么选择Python？
+
 ### 一种专注于解决问题的方案
 
     print （'致敬奋进的法律人!'*100)
@@ -90,10 +69,27 @@ Python诞生于1991年，作为一门并不年轻的编程语言，他在各方�
 - 自动化运维
 
 ---
-
 [^1]: [Meet ‘Ross,’ the newly hired legal robot__Washington Post](https://www.washingtonpost.com/news/innovations/wp/2016/05/16/meet-ross-the-newly-hired-legal-robot/) 
 
 [^2]: https://rossintelligence.com/ 
+
+[^3]: [‘Not just blue sky thinking’: Linklaters launches innovation group and pilots coding training___legal business](https://www.legalbusiness.co.uk/blogs/not-just-blue-sky-thinking-linklaters-launches-innovation-group-and-pilots-coding-training/) 
+
+[^4]: [Programming for Lawyers__Harvard Law School](http://hls.harvard.edu/academics/curriculum/catalog/default.aspx?o=71516) 
+
+[^5]: [Computer Programming for Lawyers: An Introduction__Georgetown Law School](https://curriculum.law.georgetown.edu) 
+
+[^6]: [人工智能 “网红” 编程语言 Python 进入山东小学课本__澎湃新闻](http://www.thepaper.cn/newsDetail_forward_1901353) 
+
+[^7]: [Code V2.0 by Lawrence Lessig](http://codev2.cc/) 
+
+[^8]: [为什么有的程序员可以一下抓住问题关键？ 作者：朱赟](http://mp.weixin.qq.com/s/U_DbPaZ0joh1qMCj8JIvDA) 
+
+[^9]: 这是一个阿里内部Java的编码规范可供参考 [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) 
+
+[^10]: [Developer Survey Results 2016——By Stack Overflow](https://insights.stackoverflow.com/survey/2016) 
+
+[^11]: [Stack Overflow](https://stackoverflow.com/) 如果你好奇这个名字是什么意思：Stack Overflow 可以翻译成栈溢出，是一种常见的代码错误
 
 
 ---
