@@ -38,7 +38,10 @@
 
     print （'致敬奋进的法律人!'*100)
 
-上面这段代码的含义应该非常容易猜到：在屏幕打出100遍“致敬奋进的法律人”，正是如此，当你阅读一段Python代码时，感觉像是英文小短文，简洁、明确，这是Python最大的优点，让你更专注于如何去描述解决问题的方案，而不是搞清楚计算机每一步运行背后的原理。
+上面这段代码的含义应该非常容易猜到：在屏幕打出100遍“致敬奋进的法律人”。
+![](http://o6nu63qnj.bkt.clouddn.com/vscvsc4.png)
+
+正是如此，当你阅读一段Python代码时，感觉像是英文小短文，简洁、明确，这是Python最大的优点，让你更专注于如何去描述解决问题的方案，而不是搞清楚计算机每一步运行背后的原理。
 
 ### 站在巨人的肩膀上
 **如何理解编程当中“库”的概念？**
@@ -82,16 +85,5 @@ Python诞生于1991年，作为一门并不年轻的编程语言，他在各方�
 
 [^8]: [为什么有的程序员可以一下抓住问题关键？ 作者：朱赟](http://mp.weixin.qq.com/s/U_DbPaZ0joh1qMCj8JIvDA) 
 
-[^9]: 这是一个阿里内部Java的编码规范可供参考 [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) 
 
-[^10]: [Developer Survey Results 2016——By Stack Overflow](https://insights.stackoverflow.com/survey/2016) 
-
-[^11]: [Stack Overflow](https://stackoverflow.com/) 如果你好奇这个名字是什么意思：Stack Overflow 可以翻译成栈溢出，是一种常见的代码错误
-
-
----
-
-[www.legalmind.com](http://www.legalmind.com)
-
-[![](/assets/thumb-1920-475526.jpg)](http://www.legalmind.cn)
 
